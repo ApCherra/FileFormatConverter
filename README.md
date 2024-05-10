@@ -1,12 +1,10 @@
-# 440-Project
+# Project
 
-# Member: Micah Moody, Bot Yi, Apram.
+# Apram.
 
 This application provides a user interface that allows users to select a text file and convert it into PDF, Word, or HTML format. The conversion preserves text formatting and provides additional document customization features.
 
 ## Presentation & Tutorial Link:
-https://youtu.be/vIbzwthvJm4
-
 https://docs.google.com/presentation/d/1-VZHwqcRcU1HTDdZ6ftY2WAdNy-JlIF0WhlCzO-2hg0/edit?usp=sharing
 
 ## Code Documentation Link:
